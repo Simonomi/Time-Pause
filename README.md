@@ -1,2 +1,2 @@
-# sturdy-octo-fiesta
+# time-pause
 A minecraft datapack to pause time
