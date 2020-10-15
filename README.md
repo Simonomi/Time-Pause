@@ -1,4 +1,4 @@
-# Time pause
+# Time Pause
 A minecraft datapack to pause time
 
 ### How to use:
